@@ -1,12 +1,6 @@
-#define SECRET_SSID  "Box 1"
-#define SECRET_PASS  "Box 1"
-#define SECRET_SSID2 "Box 2"
-#define SECRET_PASS2 "Box 2"
-//#define SECRET_SSID3 "Nouvelle Box"
-//#define SECRET_PASS3 "Mot de passe"
+#define SECRET_SSID     "NomDeVotreBox"
+#define SECRET_PASS     "MotDePasseDeVotreBox"
 
-// Mode OTA
-#define SECRET_OTA_PASSWORD "xxxx"
-
-// Mode AP secours  http://192.168.4.1
-#define SECRET_AP_PASS "Mot de passe"  // 8 caractéres minimum
+// Mode AP secours  http://192.168.5.1
+#define SECRET_AP_SSID  "Store-ESP32"   // Réseau de secours créé par la carte
+#define SECRET_AP_PASS  "Mot de Passe"     // 8 caractères minimum
