@@ -29,7 +29,7 @@ Fichier du croquis : `StoreEnrouleur_Web_XIAO_C3_2moteursIndependants.ino`
 |---|---|---|
 | Seeed Studio XIAO ESP32-C3 | 1 | avec son antenne externe branchée |
 | Moteur pas à pas 5 V unipolaire (type 28BYJ-48) | 1 ou 2 | |
-| Driver ULN2803 | 1 ou 2 | un par moteur |
+| Driver ULN2803 | 1  | un pour les 2 moteurs |
 | Alimentation 5 V | 1 | **1 A minimum** pour deux moteurs |
 | Fils de liaison | — | masse commune obligatoire |
 
