@@ -33,7 +33,7 @@ Sketch : `StoreEnrouleur_Web_XIAO_C3_2moteursSynchro.ino`
 |---|---|
 | Seeed Studio **XIAO ESP32-C3** | Carte de commande |
 | 2 moteurs pas à pas unipolaires 4 bobines (type **28BYJ-48**) | Pilotés en demi-pas (séquence 8 phases) |
-| 1 drivers **ULN2803 SOP18** | Un par moteur |
+| 1 drivers **ULN2803 SOP18** | Un pour les 2 moteurs |
 | **Alimentation 5 V externe, 1 A minimum** | Pour les deux drivers (les deux moteurs consomment ensemble ≈ 0,5 A) |
 | Mécanique d'entraînement du store | Un moteur à chaque extrémité du tube |
 
