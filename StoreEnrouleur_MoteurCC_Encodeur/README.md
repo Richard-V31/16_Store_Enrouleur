@@ -176,15 +176,3 @@ Chaque carte en mode secours crée **son propre réseau**, isolé des autres : t
 - **Notice d'utilisation de la page web** — utilisation quotidienne.
 - **Manuel complet** — montage, installation, calibration, fonctionnement interne, réglages, API, dépannage.
 
-## Historique
-
-| Version | Évolution |
-|---|---|
-| v2 | Sauvegarde de la position pendant le mouvement, OTA |
-| v3 | Deuxième moteur, alignement des deux côtés |
-| v3.1 | OTA réparée, page `/update`, force du signal Wi-Fi |
-| v4 | Moteurs indépendants |
-| v4.1 / v4.2 | Mise en page 2 colonnes, boutons ▲ ■ ▼ |
-| v5 | Moteurs CC à encodeur + DRV8833 : PWM 20 kHz, rampe, ralentissement, frein actif, détection de blocage et de sens incohérent |
-| v5.1 | Mot de passe de `/update` vérifié avant l'envoi, message d'échec simplifié, retour automatique sur la box en mode secours, lecture de nFAULT sur D0. Calibration v5 conservée |
-| **v5.2** | Icône de la page web (`favicon.h`) : onglet et écran d'accueil du téléphone. Documentation : plusieurs ESP32, accès en mode secours. Calibration conservée |
